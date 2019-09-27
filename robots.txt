@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fiezeigaex.databaseperformance.co.uk/sitemap.xml
